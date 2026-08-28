@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Avalia-o_POO_EmanoelCardoso/1.0.0": {
+        "runtime": {
+          "Avalia-o_POO_EmanoelCardoso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avalia-o_POO_EmanoelCardoso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\bin\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.exe
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\bin\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.deps.json
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\bin\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.runtimeconfig.json
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\bin\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.dll
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\bin\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.pdb
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.AssemblyInfoInputs.cache
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.AssemblyInfo.cs
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.csproj.CoreCompileInputs.cache
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.dll
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\refint\Avalia-o_POO_EmanoelCardoso.dll
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.pdb
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.genruntimeconfig.cache
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\ref\Avalia-o_POO_EmanoelCardoso.dll
