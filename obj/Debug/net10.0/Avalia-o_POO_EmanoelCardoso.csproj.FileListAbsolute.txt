@@ -12,3 +12,4 @@ C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\
 C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.pdb
 C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.genruntimeconfig.cache
 C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\ref\Avalia-o_POO_EmanoelCardoso.dll
+C:\Users\emanoel61511056\Documents\GitHub\Avalia-o_POO_EmanoelCardoso\obj\Debug\net10.0\Avalia-o_POO_EmanoelCardoso.sourcelink.json
